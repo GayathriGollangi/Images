@@ -1,0 +1,13 @@
+.toggle-container{
+    float:right;
+    
+}
+.toggle-icon{
+    font-size:30px;
+
+}
+.toggle-dark{
+    outline:none;
+    border:1px solid white;
+    background:transparent;
+}
